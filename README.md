@@ -23,13 +23,15 @@ This application is a rule engine that determines user eligibility based on attr
 
 1. Clone the Repository: "https://github.com/Sathvika027/Rule_Engine_AST"
 
-3. **Install Backend Dependencies**
+2. cd Rule Engine
+
+4. **Install Backend Dependencies**
 
    ```bash
    npm install
    ```
    
-4. **Start MongoDB**
+5. **Start MongoDB**
 
    Ensure that MongoDB is running on your local machine:
 
@@ -37,7 +39,7 @@ This application is a rule engine that determines user eligibility based on attr
    mongod
    ```
 
-5. **Start the Backend Server**
+6. **Start the Backend Server**
 
    ```bash
    nodemon server.js
