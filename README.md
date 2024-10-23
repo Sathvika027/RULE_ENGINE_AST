@@ -24,7 +24,6 @@ This application is a rule engine that determines user eligibility based on attr
 1. **Clone the Repository**
    ```bash
    git clone "https://github.com/Sathvika027/Rule_Engine_AST"
-   cd rule-engine
    ```
 
 2. **Install Backend Dependencies**
