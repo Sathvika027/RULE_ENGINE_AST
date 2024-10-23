@@ -21,8 +21,7 @@ This application is a rule engine that determines user eligibility based on attr
 
 ### Installation
 
-1. Clone the Repository
-    git clone: "https://github.com/Sathvika027/Rule_Engine_AST"
+1. Clone the Repository: "https://github.com/Sathvika027/Rule_Engine_AST"
 
 3. **Install Backend Dependencies**
 
